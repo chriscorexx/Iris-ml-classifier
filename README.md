@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot From 2026-09-20 02-02-39" src="https://github.com/user-attachments/assets/7ba8b518-fda3-4cff-ae7e-9eb2e7f7ccbb" />
+
+
 # 🌸 Iris ML Classifier
 
 A beginner-friendly Machine Learning classification project that predicts the species of an Iris flower using **Logistic Regression** and the classic Iris dataset.
